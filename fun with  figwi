@@ -1,0 +1,24 @@
+we all logon to our terminals every once a while
+wouldn't it be interesting to have some initials or nickname displayed on opening screen of terminal 
+
+This can be done by editing .bashrc file in linux
+
+use 
+wick@wicked:~$ gedit .bashrc
+
+and add the formatted output of figwi to it in topmost part or anywhere in file by using echo ""
+
+It would take a lot of time to create a formatted text manually
+hence this tool can be of great help to make formatted text for any purpose 
+
+
+There is one minute problem as i have stated in all the files that this will work only for lowercase letters
+but if you want to edit this you can by making minor changes and this will work for uppercase and numbers too
+
+if you don't want to do all the hardwork you can just install figlet 
+by -
+
+
+root@wicked:/home/wick# apt-get install figlet
+
+Have fun !
