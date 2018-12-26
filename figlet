@@ -1,0 +1,13 @@
+figlet is a tool that can be used to format the text on screen
+for example
+figlet wick will display
+
+
+                            __      _(_) ___| | __
+                           \ \ /\ / / |/ __| |/ /
+                            \ V  V /| | (__|   < 
+                            \_/\_/  |_|\___|_|\_\ 
+
+
+to install it in linux use
+apt-get install figlet
