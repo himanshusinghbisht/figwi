@@ -1,0 +1,24 @@
+
+
+example-
+./figwi w i c k 
+/* output is */
+          _         _    
+  __      __(_)  ___  | | __
+  \ \ /\ / /| | / __| | |/ /
+   \ V  V / | || (__  |   < 
+    \_/\_/  |_| \___| |_|\_\
+  
+  
+  ./figwi wick
+  
+  /*output is */
+   __      __
+  \ \ /\ / /
+   \ V  V / 
+    \_/\_/  
+
+
+/*remember to use spaces as spaces , this code doesn't without using spaces*/
+
+
