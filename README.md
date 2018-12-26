@@ -1,4 +1,5 @@
 # figwi
+
 figwi is a tool that can be used to create fancy text from plain text, it is similar to figlet .. i have written code for only lowecase letters and exclude uppercase letters and numbers from it, It is just to show how figlet can be implemented using c++ . it can be written for uppercase letters by minor editing. This code will run in linux systems for running it in windows systems you will have to redefine gotoxy() function , it is simple to do..
 
 for using gigwi you just have to download the code or just copy and paste it on any file
@@ -22,3 +23,28 @@ fancy formatted text will be generated
 
 This code is only for understanding purposes , i tried to make a program to simulate a result of famous figlet tool to format the text, hence this figwi was created!!!
 Thanks!!!
+
+
+
+example-
+./figwi w i c k 
+/* output is */
+          _         _    
+  __      __(_)  ___  | | __
+  \ \ /\ / /| | / __| | |/ /
+   \ V  V / | || (__  |   < 
+    \_/\_/  |_| \___| |_|\_\
+  
+  
+  ./figwi wick
+  
+  /*output is */
+   __      __
+  \ \ /\ / /
+   \ V  V / 
+    \_/\_/  
+
+
+/*remember to use spaces as spaces , this code doesn't without using spaces*/
+
+
