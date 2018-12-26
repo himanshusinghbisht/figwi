@@ -8,8 +8,7 @@ what this does?= read redme file or wrapping up in a single sentence " it format
 only lowercase alphabets will be formatted , will not work for uppercase letters or numbers !
 
 
-/*
-
+*/
 
 
 #include<iostream>
