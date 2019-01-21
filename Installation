@@ -1,0 +1,7 @@
+To install figwi , clone or download this repository.
+
+Run--
+
+sudo install ./binary-figwi /usr/bin
+
+gracias!!
