@@ -1,3 +1,5 @@
+DEMO
+
 ![figwi](demo/figwi.gif)
 
 # figwi
